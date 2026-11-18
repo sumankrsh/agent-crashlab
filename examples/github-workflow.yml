@@ -1,0 +1,25 @@
+# Copy to .github/workflows/agent-crashlab.yml in a repository with a crashlab.yaml at its root.
+name: Agent reliability
+
+on:
+  pull_request:
+
+jobs:
+  crashlab:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install "agent-crashlab @ git+https://github.com/sumankrsh/agent-crashlab"
+      - name: Run the agent under seeded faults
+        run: agent-crashlab run
+      - name: Add the report to the job summary
+        if: always()
+        run: cat crashlab-report/report.md >> "$GITHUB_STEP_SUMMARY"
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: crashlab-report
+          path: crashlab-report/

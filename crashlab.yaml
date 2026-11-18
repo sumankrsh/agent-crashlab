@@ -1,0 +1,11 @@
+# Settings for `agent-crashlab run` with no arguments (used in CI).
+agents:
+  - examples/agents/careful_agent.py:run
+scenario: month-end          # built-in, or a path such as examples/scenarios/quarter-end.yaml
+runs: 200
+seed: 1
+profile: default
+faults: {}                   # override single rates, e.g. {crash: 0.1}
+max_restarts: 3
+min_score: 0.95              # fail the build below 95% reliability
+reports: crashlab-report     # report.json, report.md, report.html

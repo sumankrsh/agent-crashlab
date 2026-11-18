@@ -1,0 +1,17 @@
+# A synthetic month-end supplier payment run. All names and addresses are fictional.
+name: month-end-payables
+task: >
+  Pay every approved invoice for the amount on the invoice. After each payment,
+  email the supplier a remittance note that quotes the invoice number.
+  Do not pay pending or disputed invoices.
+page_size: 4
+invoices:
+  - {id: INV-1001, supplier: Northwind Paper Co, email: accounts@northwind-paper.example, amount: 1250.00, status: approved}
+  - {id: INV-1002, supplier: Harbour Freight Ltd, email: billing@harbour-freight.example, amount: 4380.50, status: approved}
+  - {id: INV-1003, supplier: Kestrel Cleaning, email: invoices@kestrel-clean.example, amount: 620.00, status: pending}
+  - {id: INV-1004, supplier: Blue Fern IT Services, email: ar@bluefern-it.example, amount: 9800.00, status: approved}
+  - {id: INV-1005, supplier: Oakline Catering, email: finance@oakline.example, amount: 1475.25, status: disputed}
+  - {id: INV-1006, supplier: Marlow Office Supplies, email: accounts@marlow-office.example, amount: 312.80, status: approved}
+  - {id: INV-1007, supplier: Ridgeway Security, email: billing@ridgeway-sec.example, amount: 2150.00, status: approved}
+  - {id: INV-1008, supplier: Lumen Print Works, email: ar@lumen-print.example, amount: 845.00, status: pending}
+  - {id: INV-1009, supplier: Tidewater Logistics, email: payables@tidewater.example, amount: 6720.00, status: approved}

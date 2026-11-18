@@ -1,0 +1,289 @@
+<svg class="rich-terminal" viewBox="0 0 1238 1440.8" xmlns="http://www.w3.org/2000/svg">
+    <!-- Generated with Rich https://www.textualize.io -->
+    <style>
+
+    @font-face {
+        font-family: "Fira Code";
+        src: local("FiraCode-Regular"),
+                url("https://cdnjs.cloudflare.com/ajax/libs/firacode/6.2.0/woff2/FiraCode-Regular.woff2") format("woff2"),
+                url("https://cdnjs.cloudflare.com/ajax/libs/firacode/6.2.0/woff/FiraCode-Regular.woff") format("woff");
+        font-style: normal;
+        font-weight: 400;
+    }
+    @font-face {
+        font-family: "Fira Code";
+        src: local("FiraCode-Bold"),
+                url("https://cdnjs.cloudflare.com/ajax/libs/firacode/6.2.0/woff2/FiraCode-Bold.woff2") format("woff2"),
+                url("https://cdnjs.cloudflare.com/ajax/libs/firacode/6.2.0/woff/FiraCode-Bold.woff") format("woff");
+        font-style: bold;
+        font-weight: 700;
+    }
+
+    .terminal-1539719651-matrix {
+        font-family: Fira Code, monospace;
+        font-size: 20px;
+        line-height: 24.4px;
+        font-variant-east-asian: full-width;
+    }
+
+    .terminal-1539719651-title {
+        font-size: 18px;
+        font-weight: bold;
+        font-family: arial;
+    }
+
+    .terminal-1539719651-r1 { fill: #98a84b;font-weight: bold }
+.terminal-1539719651-r2 { fill: #c5c8c6 }
+.terminal-1539719651-r3 { fill: #c5c8c6;font-weight: bold }
+.terminal-1539719651-r4 { fill: #98a84b }
+.terminal-1539719651-r5 { fill: #cc555a }
+.terminal-1539719651-r6 { fill: #868887 }
+.terminal-1539719651-r7 { fill: #98729f }
+.terminal-1539719651-r8 { fill: #d0b344 }
+    </style>
+
+    <defs>
+    <clipPath id="terminal-1539719651-clip-terminal">
+      <rect x="0" y="0" width="1219.0" height="1389.8" />
+    </clipPath>
+    <clipPath id="terminal-1539719651-line-0">
+    <rect x="0" y="1.5" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1539719651-line-1">
+    <rect x="0" y="25.9" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1539719651-line-2">
+    <rect x="0" y="50.3" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1539719651-line-3">
+    <rect x="0" y="74.7" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1539719651-line-4">
+    <rect x="0" y="99.1" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1539719651-line-5">
+    <rect x="0" y="123.5" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1539719651-line-6">
+    <rect x="0" y="147.9" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1539719651-line-7">
+    <rect x="0" y="172.3" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1539719651-line-8">
+    <rect x="0" y="196.7" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1539719651-line-9">
+    <rect x="0" y="221.1" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1539719651-line-10">
+    <rect x="0" y="245.5" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1539719651-line-11">
+    <rect x="0" y="269.9" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1539719651-line-12">
+    <rect x="0" y="294.3" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1539719651-line-13">
+    <rect x="0" y="318.7" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1539719651-line-14">
+    <rect x="0" y="343.1" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1539719651-line-15">
+    <rect x="0" y="367.5" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1539719651-line-16">
+    <rect x="0" y="391.9" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1539719651-line-17">
+    <rect x="0" y="416.3" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1539719651-line-18">
+    <rect x="0" y="440.7" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1539719651-line-19">
+    <rect x="0" y="465.1" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1539719651-line-20">
+    <rect x="0" y="489.5" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1539719651-line-21">
+    <rect x="0" y="513.9" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1539719651-line-22">
+    <rect x="0" y="538.3" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1539719651-line-23">
+    <rect x="0" y="562.7" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1539719651-line-24">
+    <rect x="0" y="587.1" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1539719651-line-25">
+    <rect x="0" y="611.5" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1539719651-line-26">
+    <rect x="0" y="635.9" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1539719651-line-27">
+    <rect x="0" y="660.3" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1539719651-line-28">
+    <rect x="0" y="684.7" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1539719651-line-29">
+    <rect x="0" y="709.1" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1539719651-line-30">
+    <rect x="0" y="733.5" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1539719651-line-31">
+    <rect x="0" y="757.9" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1539719651-line-32">
+    <rect x="0" y="782.3" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1539719651-line-33">
+    <rect x="0" y="806.7" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1539719651-line-34">
+    <rect x="0" y="831.1" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1539719651-line-35">
+    <rect x="0" y="855.5" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1539719651-line-36">
+    <rect x="0" y="879.9" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1539719651-line-37">
+    <rect x="0" y="904.3" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1539719651-line-38">
+    <rect x="0" y="928.7" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1539719651-line-39">
+    <rect x="0" y="953.1" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1539719651-line-40">
+    <rect x="0" y="977.5" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1539719651-line-41">
+    <rect x="0" y="1001.9" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1539719651-line-42">
+    <rect x="0" y="1026.3" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1539719651-line-43">
+    <rect x="0" y="1050.7" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1539719651-line-44">
+    <rect x="0" y="1075.1" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1539719651-line-45">
+    <rect x="0" y="1099.5" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1539719651-line-46">
+    <rect x="0" y="1123.9" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1539719651-line-47">
+    <rect x="0" y="1148.3" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1539719651-line-48">
+    <rect x="0" y="1172.7" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1539719651-line-49">
+    <rect x="0" y="1197.1" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1539719651-line-50">
+    <rect x="0" y="1221.5" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1539719651-line-51">
+    <rect x="0" y="1245.9" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1539719651-line-52">
+    <rect x="0" y="1270.3" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1539719651-line-53">
+    <rect x="0" y="1294.7" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1539719651-line-54">
+    <rect x="0" y="1319.1" width="1220" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1539719651-line-55">
+    <rect x="0" y="1343.5" width="1220" height="24.65"/>
+            </clipPath>
+    </defs>
+
+    <rect fill="#292929" stroke="rgba(255,255,255,0.35)" stroke-width="1" x="1" y="1" width="1236" height="1438.8" rx="8"/><text class="terminal-1539719651-title" fill="#c5c8c6" text-anchor="middle" x="618" y="27">agent-crashlab</text>
+            <g transform="translate(26,22)">
+            <circle cx="0" cy="0" r="7" fill="#ff5f57"/>
+            <circle cx="22" cy="0" r="7" fill="#febc2e"/>
+            <circle cx="44" cy="0" r="7" fill="#28c840"/>
+            </g>
+        
+    <g transform="translate(9, 41)" clip-path="url(#terminal-1539719651-clip-terminal)">
+    
+    <g class="terminal-1539719651-matrix">
+    <text class="terminal-1539719651-r1" x="0" y="20" textLength="12.2" clip-path="url(#terminal-1539719651-line-0)">$</text><text class="terminal-1539719651-r3" x="24.4" y="20" textLength="988.2" clip-path="url(#terminal-1539719651-line-0)">agent-crashlab&#160;run&#160;examples/agents/naive_agent.py&#160;examples/agents/retry_agent.py&#160;</text><text class="terminal-1539719651-r2" x="1220" y="20" textLength="12.2" clip-path="url(#terminal-1539719651-line-0)">
+</text><text class="terminal-1539719651-r3" x="0" y="44.4" textLength="390.4" clip-path="url(#terminal-1539719651-line-1)">examples/agents/careful_agent.py</text><text class="terminal-1539719651-r2" x="1220" y="44.4" textLength="12.2" clip-path="url(#terminal-1539719651-line-1)">
+</text><text class="terminal-1539719651-r2" x="0" y="68.8" textLength="109.8" clip-path="url(#terminal-1539719651-line-2)">Scenario&#160;</text><text class="terminal-1539719651-r3" x="109.8" y="68.8" textLength="219.6" clip-path="url(#terminal-1539719651-line-2)">month-end-payables</text><text class="terminal-1539719651-r2" x="329.4" y="68.8" textLength="549" clip-path="url(#terminal-1539719651-line-2)">:&#160;6&#160;invoices&#160;to&#160;pay,&#160;12&#160;side&#160;effects&#160;expected</text><text class="terminal-1539719651-r2" x="1220" y="68.8" textLength="12.2" clip-path="url(#terminal-1539719651-line-2)">
+</text><text class="terminal-1539719651-r2" x="0" y="93.2" textLength="97.6" clip-path="url(#terminal-1539719651-line-3)">Faults&#160;(</text><text class="terminal-1539719651-r3" x="97.6" y="93.2" textLength="85.4" clip-path="url(#terminal-1539719651-line-3)">default</text><text class="terminal-1539719651-r2" x="183" y="93.2" textLength="915" clip-path="url(#terminal-1539719651-line-3)">):&#160;crash&#160;3%,&#160;duplicate&#160;3%,&#160;error&#160;5%,&#160;lost_reply&#160;4%,&#160;partial&#160;10%,&#160;timeout&#160;4%</text><text class="terminal-1539719651-r2" x="1220" y="93.2" textLength="12.2" clip-path="url(#terminal-1539719651-line-3)">
+</text><text class="terminal-1539719651-r2" x="0" y="117.6" textLength="463.6" clip-path="url(#terminal-1539719651-line-4)">200&#160;seeded&#160;runs&#160;per&#160;agent,&#160;seeds&#160;1–200</text><text class="terminal-1539719651-r2" x="1220" y="117.6" textLength="12.2" clip-path="url(#terminal-1539719651-line-4)">
+</text><text class="terminal-1539719651-r2" x="1220" y="142" textLength="12.2" clip-path="url(#terminal-1539719651-line-5)">
+</text><text class="terminal-1539719651-r3" x="0" y="166.4" textLength="158.6" clip-path="url(#terminal-1539719651-line-6)">Agent&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-1539719651-r3" x="183" y="166.4" textLength="97.6" clip-path="url(#terminal-1539719651-line-6)">Baseline</text><text class="terminal-1539719651-r3" x="305" y="166.4" textLength="73.2" clip-path="url(#terminal-1539719651-line-6)">&#160;Clean</text><text class="terminal-1539719651-r3" x="402.6" y="166.4" textLength="134.2" clip-path="url(#terminal-1539719651-line-6)">&#160;&#160;95%&#160;range</text><text class="terminal-1539719651-r3" x="561.2" y="166.4" textLength="61" clip-path="url(#terminal-1539719651-line-6)">Twice</text><text class="terminal-1539719651-r3" x="646.6" y="166.4" textLength="109.8" clip-path="url(#terminal-1539719651-line-6)">&#160;Overpaid</text><text class="terminal-1539719651-r3" x="780.8" y="166.4" textLength="109.8" clip-path="url(#terminal-1539719651-line-6)">Recovered</text><text class="terminal-1539719651-r2" x="1220" y="166.4" textLength="12.2" clip-path="url(#terminal-1539719651-line-6)">
+</text><text class="terminal-1539719651-r2" x="0" y="190.8" textLength="158.6" clip-path="url(#terminal-1539719651-line-7)">naive_agent&#160;&#160;</text><text class="terminal-1539719651-r4" x="183" y="190.8" textLength="48.8" clip-path="url(#terminal-1539719651-line-7)">pass</text><text class="terminal-1539719651-r5" x="329.4" y="190.8" textLength="48.8" clip-path="url(#terminal-1539719651-line-7)">2.5%</text><text class="terminal-1539719651-r2" x="402.6" y="190.8" textLength="134.2" clip-path="url(#terminal-1539719651-line-7)">&#160;&#160;&#160;1.1–5.7%</text><text class="terminal-1539719651-r2" x="561.2" y="190.8" textLength="61" clip-path="url(#terminal-1539719651-line-7)">&#160;&#160;127</text><text class="terminal-1539719651-r2" x="646.6" y="190.8" textLength="109.8" clip-path="url(#terminal-1539719651-line-7)">&#160;&#160;235,387</text><text class="terminal-1539719651-r2" x="780.8" y="190.8" textLength="109.8" clip-path="url(#terminal-1539719651-line-7)">&#160;&#160;&#160;&#160;&#160;0/31</text><text class="terminal-1539719651-r2" x="1220" y="190.8" textLength="12.2" clip-path="url(#terminal-1539719651-line-7)">
+</text><text class="terminal-1539719651-r2" x="0" y="215.2" textLength="158.6" clip-path="url(#terminal-1539719651-line-8)">retry_agent&#160;&#160;</text><text class="terminal-1539719651-r4" x="183" y="215.2" textLength="48.8" clip-path="url(#terminal-1539719651-line-8)">pass</text><text class="terminal-1539719651-r5" x="317.2" y="215.2" textLength="61" clip-path="url(#terminal-1539719651-line-8)">21.5%</text><text class="terminal-1539719651-r2" x="402.6" y="215.2" textLength="134.2" clip-path="url(#terminal-1539719651-line-8)">&#160;16.4–27.7%</text><text class="terminal-1539719651-r2" x="561.2" y="215.2" textLength="61" clip-path="url(#terminal-1539719651-line-8)">&#160;&#160;511</text><text class="terminal-1539719651-r2" x="646.6" y="215.2" textLength="109.8" clip-path="url(#terminal-1539719651-line-8)">1,151,714</text><text class="terminal-1539719651-r2" x="780.8" y="215.2" textLength="109.8" clip-path="url(#terminal-1539719651-line-8)">&#160;&#160;&#160;&#160;&#160;0/64</text><text class="terminal-1539719651-r2" x="1220" y="215.2" textLength="12.2" clip-path="url(#terminal-1539719651-line-8)">
+</text><text class="terminal-1539719651-r2" x="0" y="239.6" textLength="158.6" clip-path="url(#terminal-1539719651-line-9)">careful_agent</text><text class="terminal-1539719651-r4" x="183" y="239.6" textLength="48.8" clip-path="url(#terminal-1539719651-line-9)">pass</text><text class="terminal-1539719651-r4" x="305" y="239.6" textLength="73.2" clip-path="url(#terminal-1539719651-line-9)">100.0%</text><text class="terminal-1539719651-r2" x="402.6" y="239.6" textLength="134.2" clip-path="url(#terminal-1539719651-line-9)">98.1–100.0%</text><text class="terminal-1539719651-r2" x="561.2" y="239.6" textLength="61" clip-path="url(#terminal-1539719651-line-9)">&#160;&#160;&#160;&#160;0</text><text class="terminal-1539719651-r2" x="646.6" y="239.6" textLength="109.8" clip-path="url(#terminal-1539719651-line-9)">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;0</text><text class="terminal-1539719651-r2" x="780.8" y="239.6" textLength="109.8" clip-path="url(#terminal-1539719651-line-9)">&#160;&#160;&#160;&#160;70/70</text><text class="terminal-1539719651-r2" x="1220" y="239.6" textLength="12.2" clip-path="url(#terminal-1539719651-line-9)">
+</text><text class="terminal-1539719651-r2" x="1220" y="264" textLength="12.2" clip-path="url(#terminal-1539719651-line-10)">
+</text><text class="terminal-1539719651-r3" x="0" y="288.4" textLength="268.4" clip-path="url(#terminal-1539719651-line-11)">Why&#160;naive_agent&#160;failed</text><text class="terminal-1539719651-r2" x="268.4" y="288.4" textLength="219.6" clip-path="url(#terminal-1539719651-line-11)">&#160;(195&#160;of&#160;200&#160;runs)</text><text class="terminal-1539719651-r2" x="1220" y="288.4" textLength="12.2" clip-path="url(#terminal-1539719651-line-11)">
+</text><text class="terminal-1539719651-r2" x="0" y="312.8" textLength="634.4" clip-path="url(#terminal-1539719651-line-12)">&#160;&#160;&#160;80&#160;runs&#160;&#160;Stopped:&#160;gave&#160;up&#160;after&#160;a&#160;transient&#160;error</text><text class="terminal-1539719651-r2" x="1220" y="312.8" textLength="12.2" clip-path="url(#terminal-1539719651-line-12)">
+</text><text class="terminal-1539719651-r2" x="0" y="337.2" textLength="536.8" clip-path="url(#terminal-1539719651-line-13)">&#160;&#160;&#160;55&#160;runs&#160;&#160;Stopped:&#160;gave&#160;up&#160;after&#160;a&#160;timeout</text><text class="terminal-1539719651-r2" x="1220" y="337.2" textLength="12.2" clip-path="url(#terminal-1539719651-line-13)">
+</text><text class="terminal-1539719651-r2" x="0" y="361.6" textLength="573.4" clip-path="url(#terminal-1539719651-line-14)">&#160;&#160;&#160;38&#160;runs&#160;&#160;Stopped:&#160;gave&#160;up&#160;after&#160;a&#160;lost&#160;reply</text><text class="terminal-1539719651-r2" x="1220" y="361.6" textLength="12.2" clip-path="url(#terminal-1539719651-line-14)">
+</text><text class="terminal-1539719651-r2" x="0" y="386" textLength="597.8" clip-path="url(#terminal-1539719651-line-15)">&#160;&#160;&#160;30&#160;runs&#160;&#160;Did&#160;it&#160;twice:&#160;a&#160;request&#160;arrived&#160;twice</text><text class="terminal-1539719651-r2" x="1220" y="386" textLength="12.2" clip-path="url(#terminal-1539719651-line-15)">
+</text><text class="terminal-1539719651-r2" x="0" y="410.4" textLength="585.6" clip-path="url(#terminal-1539719651-line-16)">&#160;&#160;&#160;29&#160;runs&#160;&#160;Did&#160;it&#160;twice:&#160;the&#160;restart&#160;redid&#160;work</text><text class="terminal-1539719651-r2" x="1220" y="410.4" textLength="12.2" clip-path="url(#terminal-1539719651-line-16)">
+</text><text class="terminal-1539719651-r6" x="24.4" y="434.8" textLength="890.6" clip-path="url(#terminal-1539719651-line-17)">Replay&#160;one:&#160;agent-crashlab&#160;replay&#160;examples/agents/naive_agent.py&#160;--seed&#160;1</text><text class="terminal-1539719651-r2" x="1220" y="434.8" textLength="12.2" clip-path="url(#terminal-1539719651-line-17)">
+</text><text class="terminal-1539719651-r2" x="1220" y="459.2" textLength="12.2" clip-path="url(#terminal-1539719651-line-18)">
+</text><text class="terminal-1539719651-r3" x="0" y="483.6" textLength="268.4" clip-path="url(#terminal-1539719651-line-19)">Why&#160;retry_agent&#160;failed</text><text class="terminal-1539719651-r2" x="268.4" y="483.6" textLength="219.6" clip-path="url(#terminal-1539719651-line-19)">&#160;(157&#160;of&#160;200&#160;runs)</text><text class="terminal-1539719651-r2" x="1220" y="483.6" textLength="12.2" clip-path="url(#terminal-1539719651-line-19)">
+</text><text class="terminal-1539719651-r2" x="0" y="508" textLength="634.4" clip-path="url(#terminal-1539719651-line-20)">&#160;&#160;&#160;75&#160;runs&#160;&#160;Did&#160;it&#160;twice:&#160;retried&#160;after&#160;a&#160;lost&#160;reply</text><text class="terminal-1539719651-r2" x="1220" y="508" textLength="12.2" clip-path="url(#terminal-1539719651-line-20)">
+</text><text class="terminal-1539719651-r2" x="0" y="532.4" textLength="597.8" clip-path="url(#terminal-1539719651-line-21)">&#160;&#160;&#160;69&#160;runs&#160;&#160;Did&#160;it&#160;twice:&#160;a&#160;request&#160;arrived&#160;twice</text><text class="terminal-1539719651-r2" x="1220" y="532.4" textLength="12.2" clip-path="url(#terminal-1539719651-line-21)">
+</text><text class="terminal-1539719651-r2" x="0" y="556.8" textLength="585.6" clip-path="url(#terminal-1539719651-line-22)">&#160;&#160;&#160;64&#160;runs&#160;&#160;Did&#160;it&#160;twice:&#160;the&#160;restart&#160;redid&#160;work</text><text class="terminal-1539719651-r2" x="1220" y="556.8" textLength="12.2" clip-path="url(#terminal-1539719651-line-22)">
+</text><text class="terminal-1539719651-r2" x="0" y="581.2" textLength="585.6" clip-path="url(#terminal-1539719651-line-23)">&#160;&#160;&#160;37&#160;runs&#160;&#160;Skipped&#160;work:&#160;trusted&#160;a&#160;partial&#160;page</text><text class="terminal-1539719651-r2" x="1220" y="581.2" textLength="12.2" clip-path="url(#terminal-1539719651-line-23)">
+</text><text class="terminal-1539719651-r6" x="24.4" y="605.6" textLength="890.6" clip-path="url(#terminal-1539719651-line-24)">Replay&#160;one:&#160;agent-crashlab&#160;replay&#160;examples/agents/retry_agent.py&#160;--seed&#160;1</text><text class="terminal-1539719651-r2" x="1220" y="605.6" textLength="12.2" clip-path="url(#terminal-1539719651-line-24)">
+</text><text class="terminal-1539719651-r2" x="1220" y="630" textLength="12.2" clip-path="url(#terminal-1539719651-line-25)">
+</text><text class="terminal-1539719651-r2" x="0" y="654.4" textLength="549" clip-path="url(#terminal-1539719651-line-26)">naive_agent:&#160;5/200&#160;runs&#160;clean,&#160;127&#160;done&#160;twice</text><text class="terminal-1539719651-r2" x="1220" y="654.4" textLength="12.2" clip-path="url(#terminal-1539719651-line-26)">
+</text><text class="terminal-1539719651-r2" x="0" y="678.8" textLength="561.2" clip-path="url(#terminal-1539719651-line-27)">retry_agent:&#160;43/200&#160;runs&#160;clean,&#160;511&#160;done&#160;twice</text><text class="terminal-1539719651-r2" x="1220" y="678.8" textLength="12.2" clip-path="url(#terminal-1539719651-line-27)">
+</text><text class="terminal-1539719651-r2" x="0" y="703.2" textLength="573.4" clip-path="url(#terminal-1539719651-line-28)">careful_agent:&#160;200/200&#160;runs&#160;clean,&#160;0&#160;done&#160;twice</text><text class="terminal-1539719651-r2" x="1220" y="703.2" textLength="12.2" clip-path="url(#terminal-1539719651-line-28)">
+</text><text class="terminal-1539719651-r6" x="0" y="727.6" textLength="158.6" clip-path="url(#terminal-1539719651-line-29)">exit&#160;status&#160;0</text><text class="terminal-1539719651-r2" x="1220" y="727.6" textLength="12.2" clip-path="url(#terminal-1539719651-line-29)">
+</text><text class="terminal-1539719651-r2" x="1220" y="752" textLength="12.2" clip-path="url(#terminal-1539719651-line-30)">
+</text><text class="terminal-1539719651-r1" x="0" y="776.4" textLength="12.2" clip-path="url(#terminal-1539719651-line-31)">$</text><text class="terminal-1539719651-r3" x="24.4" y="776.4" textLength="744.2" clip-path="url(#terminal-1539719651-line-31)">agent-crashlab&#160;replay&#160;examples/agents/retry_agent.py&#160;--seed&#160;3</text><text class="terminal-1539719651-r2" x="1220" y="776.4" textLength="12.2" clip-path="url(#terminal-1539719651-line-31)">
+</text><text class="terminal-1539719651-r2" x="0" y="800.8" textLength="61" clip-path="url(#terminal-1539719651-line-32)">Seed&#160;</text><text class="terminal-1539719651-r3" x="61" y="800.8" textLength="12.2" clip-path="url(#terminal-1539719651-line-32)">3</text><text class="terminal-1539719651-r2" x="73.2" y="800.8" textLength="475.8" clip-path="url(#terminal-1539719651-line-32)">&#160;·&#160;month-end-payables&#160;·&#160;faults:&#160;default</text><text class="terminal-1539719651-r2" x="1220" y="800.8" textLength="12.2" clip-path="url(#terminal-1539719651-line-32)">
+</text><text class="terminal-1539719651-r2" x="1220" y="825.2" textLength="12.2" clip-path="url(#terminal-1539719651-line-33)">
+</text><text class="terminal-1539719651-r3" x="0" y="849.6" textLength="24.4" clip-path="url(#terminal-1539719651-line-34)">&#160;#</text><text class="terminal-1539719651-r3" x="48.8" y="849.6" textLength="378.2" clip-path="url(#terminal-1539719651-line-34)">Call&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-1539719651-r3" x="451.4" y="849.6" textLength="122" clip-path="url(#terminal-1539719651-line-34)">Fault&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-1539719651-r3" x="597.8" y="849.6" textLength="85.4" clip-path="url(#terminal-1539719651-line-34)">Result&#160;</text><text class="terminal-1539719651-r3" x="707.6" y="849.6" textLength="231.8" clip-path="url(#terminal-1539719651-line-34)">Effect&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-1539719651-r2" x="1220" y="849.6" textLength="12.2" clip-path="url(#terminal-1539719651-line-34)">
+</text><text class="terminal-1539719651-r2" x="0" y="874" textLength="24.4" clip-path="url(#terminal-1539719651-line-35)">&#160;0</text><text class="terminal-1539719651-r2" x="48.8" y="874" textLength="378.2" clip-path="url(#terminal-1539719651-line-35)">list_invoices()&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-1539719651-r2" x="597.8" y="874" textLength="85.4" clip-path="url(#terminal-1539719651-line-35)">ok&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-1539719651-r2" x="1220" y="874" textLength="12.2" clip-path="url(#terminal-1539719651-line-35)">
+</text><text class="terminal-1539719651-r2" x="0" y="898.4" textLength="24.4" clip-path="url(#terminal-1539719651-line-36)">&#160;1</text><text class="terminal-1539719651-r2" x="48.8" y="898.4" textLength="378.2" clip-path="url(#terminal-1539719651-line-36)">pay_invoice(INV-1001,&#160;1,250.00)</text><text class="terminal-1539719651-r2" x="597.8" y="898.4" textLength="85.4" clip-path="url(#terminal-1539719651-line-36)">ok&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-1539719651-r2" x="707.6" y="898.4" textLength="231.8" clip-path="url(#terminal-1539719651-line-36)">paid&#160;INV-1001&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-1539719651-r2" x="1220" y="898.4" textLength="12.2" clip-path="url(#terminal-1539719651-line-36)">
+</text><text class="terminal-1539719651-r2" x="0" y="922.8" textLength="24.4" clip-path="url(#terminal-1539719651-line-37)">&#160;2</text><text class="terminal-1539719651-r2" x="48.8" y="922.8" textLength="378.2" clip-path="url(#terminal-1539719651-line-37)">send_email(INV-1001)&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-1539719651-r2" x="597.8" y="922.8" textLength="85.4" clip-path="url(#terminal-1539719651-line-37)">ok&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-1539719651-r2" x="707.6" y="922.8" textLength="231.8" clip-path="url(#terminal-1539719651-line-37)">emailed&#160;INV-1001&#160;&#160;&#160;</text><text class="terminal-1539719651-r2" x="1220" y="922.8" textLength="12.2" clip-path="url(#terminal-1539719651-line-37)">
+</text><text class="terminal-1539719651-r2" x="0" y="947.2" textLength="24.4" clip-path="url(#terminal-1539719651-line-38)">&#160;3</text><text class="terminal-1539719651-r2" x="48.8" y="947.2" textLength="378.2" clip-path="url(#terminal-1539719651-line-38)">pay_invoice(INV-1002,&#160;4,380.50)</text><text class="terminal-1539719651-r2" x="597.8" y="947.2" textLength="85.4" clip-path="url(#terminal-1539719651-line-38)">ok&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-1539719651-r2" x="707.6" y="947.2" textLength="231.8" clip-path="url(#terminal-1539719651-line-38)">paid&#160;INV-1002&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-1539719651-r2" x="1220" y="947.2" textLength="12.2" clip-path="url(#terminal-1539719651-line-38)">
+</text><text class="terminal-1539719651-r2" x="0" y="971.6" textLength="24.4" clip-path="url(#terminal-1539719651-line-39)">&#160;4</text><text class="terminal-1539719651-r2" x="48.8" y="971.6" textLength="378.2" clip-path="url(#terminal-1539719651-line-39)">send_email(INV-1002)&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-1539719651-r2" x="597.8" y="971.6" textLength="85.4" clip-path="url(#terminal-1539719651-line-39)">ok&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-1539719651-r2" x="707.6" y="971.6" textLength="231.8" clip-path="url(#terminal-1539719651-line-39)">emailed&#160;INV-1002&#160;&#160;&#160;</text><text class="terminal-1539719651-r2" x="1220" y="971.6" textLength="12.2" clip-path="url(#terminal-1539719651-line-39)">
+</text><text class="terminal-1539719651-r2" x="0" y="996" textLength="24.4" clip-path="url(#terminal-1539719651-line-40)">&#160;5</text><text class="terminal-1539719651-r2" x="48.8" y="996" textLength="378.2" clip-path="url(#terminal-1539719651-line-40)">pay_invoice(INV-1004,&#160;9,800.00)</text><text class="terminal-1539719651-r7" x="451.4" y="996" textLength="122" clip-path="url(#terminal-1539719651-line-40)">lost&#160;reply</text><text class="terminal-1539719651-r8" x="597.8" y="996" textLength="85.4" clip-path="url(#terminal-1539719651-line-40)">timeout</text><text class="terminal-1539719651-r2" x="707.6" y="996" textLength="231.8" clip-path="url(#terminal-1539719651-line-40)">paid&#160;INV-1004&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-1539719651-r2" x="1220" y="996" textLength="12.2" clip-path="url(#terminal-1539719651-line-40)">
+</text><text class="terminal-1539719651-r2" x="0" y="1020.4" textLength="24.4" clip-path="url(#terminal-1539719651-line-41)">&#160;6</text><text class="terminal-1539719651-r2" x="48.8" y="1020.4" textLength="378.2" clip-path="url(#terminal-1539719651-line-41)">pay_invoice(INV-1004,&#160;9,800.00)</text><text class="terminal-1539719651-r7" x="451.4" y="1020.4" textLength="85.4" clip-path="url(#terminal-1539719651-line-41)">timeout</text><text class="terminal-1539719651-r8" x="597.8" y="1020.4" textLength="85.4" clip-path="url(#terminal-1539719651-line-41)">timeout</text><text class="terminal-1539719651-r2" x="1220" y="1020.4" textLength="12.2" clip-path="url(#terminal-1539719651-line-41)">
+</text><text class="terminal-1539719651-r2" x="0" y="1044.8" textLength="24.4" clip-path="url(#terminal-1539719651-line-42)">&#160;7</text><text class="terminal-1539719651-r2" x="48.8" y="1044.8" textLength="378.2" clip-path="url(#terminal-1539719651-line-42)">pay_invoice(INV-1004,&#160;9,800.00)</text><text class="terminal-1539719651-r2" x="597.8" y="1044.8" textLength="85.4" clip-path="url(#terminal-1539719651-line-42)">ok&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-1539719651-r5" x="707.6" y="1044.8" textLength="231.8" clip-path="url(#terminal-1539719651-line-42)">paid&#160;INV-1004&#160;again</text><text class="terminal-1539719651-r2" x="1220" y="1044.8" textLength="12.2" clip-path="url(#terminal-1539719651-line-42)">
+</text><text class="terminal-1539719651-r2" x="0" y="1069.2" textLength="24.4" clip-path="url(#terminal-1539719651-line-43)">&#160;8</text><text class="terminal-1539719651-r2" x="48.8" y="1069.2" textLength="378.2" clip-path="url(#terminal-1539719651-line-43)">send_email(INV-1004)&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-1539719651-r2" x="597.8" y="1069.2" textLength="85.4" clip-path="url(#terminal-1539719651-line-43)">ok&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-1539719651-r2" x="707.6" y="1069.2" textLength="231.8" clip-path="url(#terminal-1539719651-line-43)">emailed&#160;INV-1004&#160;&#160;&#160;</text><text class="terminal-1539719651-r2" x="1220" y="1069.2" textLength="12.2" clip-path="url(#terminal-1539719651-line-43)">
+</text><text class="terminal-1539719651-r2" x="0" y="1093.6" textLength="24.4" clip-path="url(#terminal-1539719651-line-44)">&#160;9</text><text class="terminal-1539719651-r2" x="48.8" y="1093.6" textLength="378.2" clip-path="url(#terminal-1539719651-line-44)">pay_invoice(INV-1006,&#160;312.80)&#160;&#160;</text><text class="terminal-1539719651-r2" x="597.8" y="1093.6" textLength="85.4" clip-path="url(#terminal-1539719651-line-44)">ok&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-1539719651-r2" x="707.6" y="1093.6" textLength="231.8" clip-path="url(#terminal-1539719651-line-44)">paid&#160;INV-1006&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-1539719651-r2" x="1220" y="1093.6" textLength="12.2" clip-path="url(#terminal-1539719651-line-44)">
+</text><text class="terminal-1539719651-r2" x="0" y="1118" textLength="24.4" clip-path="url(#terminal-1539719651-line-45)">10</text><text class="terminal-1539719651-r2" x="48.8" y="1118" textLength="378.2" clip-path="url(#terminal-1539719651-line-45)">send_email(INV-1006)&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-1539719651-r2" x="597.8" y="1118" textLength="85.4" clip-path="url(#terminal-1539719651-line-45)">ok&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-1539719651-r2" x="707.6" y="1118" textLength="231.8" clip-path="url(#terminal-1539719651-line-45)">emailed&#160;INV-1006&#160;&#160;&#160;</text><text class="terminal-1539719651-r2" x="1220" y="1118" textLength="12.2" clip-path="url(#terminal-1539719651-line-45)">
+</text><text class="terminal-1539719651-r2" x="0" y="1142.4" textLength="24.4" clip-path="url(#terminal-1539719651-line-46)">11</text><text class="terminal-1539719651-r2" x="48.8" y="1142.4" textLength="378.2" clip-path="url(#terminal-1539719651-line-46)">list_invoices(from&#160;4)&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-1539719651-r2" x="597.8" y="1142.4" textLength="85.4" clip-path="url(#terminal-1539719651-line-46)">ok&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-1539719651-r2" x="1220" y="1142.4" textLength="12.2" clip-path="url(#terminal-1539719651-line-46)">
+</text><text class="terminal-1539719651-r2" x="0" y="1166.8" textLength="24.4" clip-path="url(#terminal-1539719651-line-47)">12</text><text class="terminal-1539719651-r2" x="48.8" y="1166.8" textLength="378.2" clip-path="url(#terminal-1539719651-line-47)">pay_invoice(INV-1007,&#160;2,150.00)</text><text class="terminal-1539719651-r2" x="597.8" y="1166.8" textLength="85.4" clip-path="url(#terminal-1539719651-line-47)">ok&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-1539719651-r2" x="707.6" y="1166.8" textLength="231.8" clip-path="url(#terminal-1539719651-line-47)">paid&#160;INV-1007&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-1539719651-r2" x="1220" y="1166.8" textLength="12.2" clip-path="url(#terminal-1539719651-line-47)">
+</text><text class="terminal-1539719651-r2" x="0" y="1191.2" textLength="24.4" clip-path="url(#terminal-1539719651-line-48)">13</text><text class="terminal-1539719651-r2" x="48.8" y="1191.2" textLength="378.2" clip-path="url(#terminal-1539719651-line-48)">send_email(INV-1007)&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-1539719651-r2" x="597.8" y="1191.2" textLength="85.4" clip-path="url(#terminal-1539719651-line-48)">ok&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-1539719651-r2" x="707.6" y="1191.2" textLength="231.8" clip-path="url(#terminal-1539719651-line-48)">emailed&#160;INV-1007&#160;&#160;&#160;</text><text class="terminal-1539719651-r2" x="1220" y="1191.2" textLength="12.2" clip-path="url(#terminal-1539719651-line-48)">
+</text><text class="terminal-1539719651-r2" x="0" y="1215.6" textLength="24.4" clip-path="url(#terminal-1539719651-line-49)">14</text><text class="terminal-1539719651-r2" x="48.8" y="1215.6" textLength="378.2" clip-path="url(#terminal-1539719651-line-49)">pay_invoice(INV-1009,&#160;6,720.00)</text><text class="terminal-1539719651-r2" x="597.8" y="1215.6" textLength="85.4" clip-path="url(#terminal-1539719651-line-49)">ok&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-1539719651-r2" x="707.6" y="1215.6" textLength="231.8" clip-path="url(#terminal-1539719651-line-49)">paid&#160;INV-1009&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-1539719651-r2" x="1220" y="1215.6" textLength="12.2" clip-path="url(#terminal-1539719651-line-49)">
+</text><text class="terminal-1539719651-r2" x="0" y="1240" textLength="24.4" clip-path="url(#terminal-1539719651-line-50)">15</text><text class="terminal-1539719651-r2" x="48.8" y="1240" textLength="378.2" clip-path="url(#terminal-1539719651-line-50)">send_email(INV-1009)&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-1539719651-r7" x="451.4" y="1240" textLength="109.8" clip-path="url(#terminal-1539719651-line-50)">duplicate</text><text class="terminal-1539719651-r2" x="597.8" y="1240" textLength="85.4" clip-path="url(#terminal-1539719651-line-50)">ok&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-1539719651-r5" x="707.6" y="1240" textLength="231.8" clip-path="url(#terminal-1539719651-line-50)">emailed&#160;INV-1009&#160;x2</text><text class="terminal-1539719651-r2" x="1220" y="1240" textLength="12.2" clip-path="url(#terminal-1539719651-line-50)">
+</text><text class="terminal-1539719651-r2" x="1220" y="1264.4" textLength="12.2" clip-path="url(#terminal-1539719651-line-51)">
+</text><text class="terminal-1539719651-r5" x="0" y="1288.8" textLength="48.8" clip-path="url(#terminal-1539719651-line-52)">FAIL</text><text class="terminal-1539719651-r2" x="48.8" y="1288.8" textLength="256.2" clip-path="url(#terminal-1539719651-line-52)">&#160;16&#160;calls,&#160;0&#160;restarts</text><text class="terminal-1539719651-r2" x="1220" y="1288.8" textLength="12.2" clip-path="url(#terminal-1539719651-line-52)">
+</text><text class="terminal-1539719651-r5" x="24.4" y="1313.2" textLength="12.2" clip-path="url(#terminal-1539719651-line-53)">✗</text><text class="terminal-1539719651-r2" x="36.6" y="1313.2" textLength="927.2" clip-path="url(#terminal-1539719651-line-53)">&#160;no_duplicates:&#160;payment&#160;for&#160;INV-1004&#160;happened&#160;2&#160;times&#160;(9,800.00&#160;paid&#160;twice)&#160;</text><text class="terminal-1539719651-r6" x="963.8" y="1313.2" textLength="231.8" clip-path="url(#terminal-1539719651-line-53)">(cause:&#160;lost_reply)</text><text class="terminal-1539719651-r2" x="1220" y="1313.2" textLength="12.2" clip-path="url(#terminal-1539719651-line-53)">
+</text><text class="terminal-1539719651-r5" x="24.4" y="1337.6" textLength="12.2" clip-path="url(#terminal-1539719651-line-54)">✗</text><text class="terminal-1539719651-r2" x="36.6" y="1337.6" textLength="768.6" clip-path="url(#terminal-1539719651-line-54)">&#160;no_duplicates:&#160;remittance&#160;email&#160;for&#160;INV-1009&#160;happened&#160;2&#160;times&#160;</text><text class="terminal-1539719651-r6" x="805.2" y="1337.6" textLength="219.6" clip-path="url(#terminal-1539719651-line-54)">(cause:&#160;duplicate)</text><text class="terminal-1539719651-r2" x="1220" y="1337.6" textLength="12.2" clip-path="url(#terminal-1539719651-line-54)">
+</text><text class="terminal-1539719651-r6" x="0" y="1362" textLength="158.6" clip-path="url(#terminal-1539719651-line-55)">exit&#160;status&#160;1</text><text class="terminal-1539719651-r2" x="1220" y="1362" textLength="12.2" clip-path="url(#terminal-1539719651-line-55)">
+</text><text class="terminal-1539719651-r2" x="1220" y="1386.4" textLength="12.2" clip-path="url(#terminal-1539719651-line-56)">
+</text>
+    </g>
+    </g>
+</svg>

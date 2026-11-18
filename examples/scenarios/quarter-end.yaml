@@ -1,0 +1,27 @@
+# A larger synthetic quarter-end run: 18 invoices, 13 to pay, pages of 5.
+# All names and addresses are fictional.
+name: quarter-end-payables
+task: >
+  Pay every approved invoice for the amount on the invoice. After each payment,
+  email the supplier a remittance note that quotes the invoice number.
+  Do not pay pending or disputed invoices.
+page_size: 5
+invoices:
+  - {id: INV-2001, supplier: Alder Joinery, email: accounts@alder.example, amount: 1224.95, status: pending}
+  - {id: INV-2002, supplier: Brightwater Utilities, email: accounts@brightwater.example, amount: 5180.55, status: approved}
+  - {id: INV-2003, supplier: Cobalt Courier, email: accounts@cobalt.example, amount: 9948.20, status: approved}
+  - {id: INV-2004, supplier: Delta Signage, email: accounts@delta.example, amount: 1617.05, status: disputed}
+  - {id: INV-2005, supplier: Elm Street Bakery, email: accounts@elm.example, amount: 2795.38, status: approved}
+  - {id: INV-2006, supplier: Foxglove Florists, email: accounts@foxglove.example, amount: 7585.08, status: approved}
+  - {id: INV-2007, supplier: Granite Facilities, email: accounts@granite.example, amount: 11380.35, status: approved}
+  - {id: INV-2008, supplier: Heron Legal Services, email: accounts@heron.example, amount: 6988.67, status: approved}
+  - {id: INV-2009, supplier: Ivy Lane Laundry, email: accounts@ivy.example, amount: 4850.66, status: pending}
+  - {id: INV-2010, supplier: Juniper Analytics, email: accounts@juniper.example, amount: 11718.62, status: approved}
+  - {id: INV-2011, supplier: Kingfisher Travel, email: accounts@kingfisher.example, amount: 702.00, status: pending}
+  - {id: INV-2012, supplier: Larch Electrical, email: accounts@larch.example, amount: 10322.85, status: approved}
+  - {id: INV-2013, supplier: Meadow Waste Services, email: accounts@meadow.example, amount: 3581.87, status: approved}
+  - {id: INV-2014, supplier: Nettle Design Studio, email: accounts@nettle.example, amount: 1859.42, status: approved}
+  - {id: INV-2015, supplier: Orchard Water Co, email: accounts@orchard.example, amount: 1545.84, status: disputed}
+  - {id: INV-2016, supplier: Pine Hill Plumbing, email: accounts@pine.example, amount: 3805.51, status: approved}
+  - {id: INV-2017, supplier: Quarry Stone Supplies, email: accounts@quarry.example, amount: 9821.10, status: approved}
+  - {id: INV-2018, supplier: Rowan Recruitment, email: accounts@rowan.example, amount: 2291.61, status: approved}
